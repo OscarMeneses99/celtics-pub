@@ -1,0 +1,28 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Oscar",
+            "lastname": "Meneses Reyna",
+            "username": "admin",
+            "password": "caaecfdf2d418328a7133bff84e83713",
+            "perfil": "admin"
+        },
+        {
+            "id": 2,
+            "name": "Juan Luis",
+            "lastname": "Alcaide",
+            "username": "dev",
+            "password": "1234",
+            "perfil": "dev"
+        },
+        {
+            "id": 3,
+            "name": "Oscar",
+            "lastname": "Meneses Solís",
+            "username": "dev",
+            "password": "1234",
+            "perfil": "dev"
+        }
+    ]
+}
